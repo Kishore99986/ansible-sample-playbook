@@ -4,7 +4,7 @@
   become: true
 
   vars:
-    apache_package: apache2
+    apache_package: apache2  #var declare
     apache_service: apache2
 
   handlers:

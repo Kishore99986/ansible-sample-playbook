@@ -12,7 +12,7 @@
     - geerlingguy.passenger
 
   tasks:
-    - name: Install app dependencies.
+    - name: Install app dependencies.  #installi
       apt:
         name:
           - libsqlite3-dev
